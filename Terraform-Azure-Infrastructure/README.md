@@ -20,3 +20,17 @@ This project automates the provisioning of Azure resources using Terraform. It s
 1. **Initialize Terraform**
 ```bash
 terraform init
+
+2. **Plan Deployment**
+
+bash
+Copy
+Edit
+terraform plan -var-file="terraform.tfvars"
+
+3. **Apply Configuration**
+
+bash
+Copy
+Edit
+terraform apply -var-file="terraform.tfvars"
