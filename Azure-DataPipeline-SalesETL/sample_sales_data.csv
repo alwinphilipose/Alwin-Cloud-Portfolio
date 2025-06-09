@@ -1,1 +1,6 @@
 
+Date,Product,Region,Quantity,Unit_Price
+2024-01-01,Pen,East,100,1.50
+2024-01-02,Book,West,200,2.00
+2024-01-03,Notebook,North,150,3.00
+2024-01-04,Eraser,South,120,0.50
